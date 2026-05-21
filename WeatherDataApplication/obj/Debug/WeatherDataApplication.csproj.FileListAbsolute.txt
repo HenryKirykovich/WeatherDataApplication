@@ -1,0 +1,12 @@
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\bin\Debug\WeatherDataApplication.exe.config
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\bin\Debug\WeatherDataApplication.exe
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\bin\Debug\WeatherDataApplication.pdb
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\obj\Debug\WeatherDataApplication.csproj.AssemblyReference.cache
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\obj\Debug\WeatherDataApplication.Properties.Resources.resources
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\obj\Debug\WeatherDataApplication.csproj.GenerateResource.cache
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\obj\Debug\WeatherDataApplication.csproj.CoreCompileInputs.cache
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\obj\Debug\WeatherD.5B260D26.Up2Date
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\obj\Debug\WeatherDataApplication.exe
+C:\Users\henry\OneDrive\Desktop\DEV420\In-class assignment - Weather Data Application\WeatherDataApplication\WeatherDataApplication\obj\Debug\WeatherDataApplication.pdb

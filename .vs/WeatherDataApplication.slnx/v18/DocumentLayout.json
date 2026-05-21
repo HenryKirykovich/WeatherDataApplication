@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henry\\OneDrive\\Desktop\\DEV420\\In-class assignment - Weather Data Application\\WeatherDataApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF7CD9F-9BBB-4EA4-A353-F6B7BE1B9F7F}|WeatherDataApplication\\WeatherDataApplication.csproj|c:\\users\\henry\\onedrive\\desktop\\dev420\\in-class assignment - weather data application\\weatherdataapplication\\weatherdataapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF7CD9F-9BBB-4EA4-A353-F6B7BE1B9F7F}|WeatherDataApplication\\WeatherDataApplication.csproj|solutionrelative:weatherdataapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF7CD9F-9BBB-4EA4-A353-F6B7BE1B9F7F}|WeatherDataApplication\\WeatherDataApplication.csproj|C:\\Users\\henry\\OneDrive\\Desktop\\DEV420\\In-class assignment - Weather Data Application\\WeatherDataApplication\\weatherdataapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF7CD9F-9BBB-4EA4-A353-F6B7BE1B9F7F}|WeatherDataApplication\\WeatherDataApplication.csproj|solutionrelative:weatherdataapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Desktop\\DEV420\\In-class assignment - Weather Data Application\\WeatherDataApplication\\WeatherDataApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherDataApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\henry\\OneDrive\\Desktop\\DEV420\\In-class assignment - Weather Data Application\\WeatherDataApplication\\WeatherDataApplication\\Program.cs",
+              "RelativeToolTip": "WeatherDataApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:45:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Desktop\\DEV420\\In-class assignment - Weather Data Application\\WeatherDataApplication\\WeatherDataApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WeatherDataApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\henry\\OneDrive\\Desktop\\DEV420\\In-class assignment - Weather Data Application\\WeatherDataApplication\\WeatherDataApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "WeatherDataApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:53:24.335Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
